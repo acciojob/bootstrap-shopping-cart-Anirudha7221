@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+header{
+	background-color:#F6F6F6;
+}
+#container{
+	background-color:white;
+}
+.head{
+	background-color:#3b99e0;
+}
+.summary{
+	background-color:#f7fbff;
+	position:absolute;
+}
