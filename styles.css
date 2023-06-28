@@ -2,13 +2,16 @@
 header{
 	background-color:#F6F6F6;
 }
+.block-heading{
+	text-align:center;
+}
 #container{
 	background-color:white;
-}
-.head{
-	background-color:#3b99e0;
 }
 .summary{
 	background-color:#f7fbff;
 	position:absolute;
+}
+a{
+	text-decoration:none !important;
 }
